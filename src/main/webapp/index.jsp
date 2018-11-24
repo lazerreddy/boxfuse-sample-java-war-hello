@@ -33,6 +33,7 @@
 <P style="margin-bottom: 20px;">
     List all Bootable Apps:<br/>
     <strong>boxfuse ls</strong>
+    <h3>hello hai</h3>
 </p>
 
 <p>
